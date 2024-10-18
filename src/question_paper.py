@@ -18,6 +18,7 @@ Requirements:
 Use list comprehensions for filtering even and odd numbers.
 Use control flow (if, else) to determine which sum is larger.
 Do not use built-in functions like sum() for the overall logic.
+-------------------------------------------------------------------------------------------------------------------
 Question 2: String Manipulation and Loops
 Write a function letter_histogram(word) that takes in a string word and returns a dictionary where the keys are the letters in the word, and the values are the number of times each letter appears.
 
@@ -44,6 +45,8 @@ Requirements:
 Use a loop to count the frequency of each character.
 Use a dictionary to store and look up frequencies.
 Implement logic to find the most frequent letter.
+
+---------------------------------------------------------
 Question 3: Functions and Recursion
 Write a recursive function reverse_string(s) that takes in a string s and returns the string in reverse order.
 
@@ -67,6 +70,8 @@ Requirements:
 
 Avoid using Python slicing techniques for reversing the string.
 Use recursion for both reversing and checking palindromes.
+
+-------------------------------------------------------------------------------------------
 Question 4: Dictionary Operations and Looping
 You are given a dictionary that contains the names of students as keys and their respective marks in various subjects as values in the form of another dictionary. Write a function calculate_average_marks(students) that:
 
